@@ -1,9 +1,9 @@
 //Ejercicio 1 EloquentJavaScript
 
-/*for(let i=0; i<=7; i++){
+for(let i=0; i<=7; i++){
     let Contador="*".repeat(i);
     console.log(Contador);
-}*/
+}
 
 //Ejercicio 2 EloquentJavaScript FizzBuzz/ parte 1: Fizz
 for (let i = 0; i <= 100; i++){
