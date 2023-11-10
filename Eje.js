@@ -37,9 +37,7 @@ for(let i=0; i<=100;i++){
     }
 }*/
 
-//Tablero de Ajedrez
-let space="\t";
-let ent="\n";
+//Tablero de Ajedrez Utilizando vinculaciones (variables)
 let numeral1=" # # # #";
 let numeral2="# # # #";
 console.log(numeral1);
