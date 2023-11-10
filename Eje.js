@@ -24,7 +24,7 @@ for (let i=0;i<=100;i++){
     }
 }*/
 
-//Ejercicio 2 EloquentJavaScript FizzBuzz/ parte 3 ProgramaFinal: FizzBuzz
+/*//Ejercicio 2 EloquentJavaScript FizzBuzz/ parte 3 ProgramaFinal: FizzBuzz
 for(let i=0; i<=100;i++){
     if(i%3==0 && i%5==0){
         console.log("FizzBuzz")
@@ -35,4 +35,18 @@ for(let i=0; i<=100;i++){
     }else {
         console.log(i);
     }
-}
+}*/
+
+//Tablero de Ajedrez
+let space="\t";
+let ent="\n";
+let numeral1=" # # # #";
+let numeral2="# # # #";
+console.log(numeral1);
+console.log(numeral2);
+console.log(numeral1);
+console.log(numeral2);
+console.log(numeral1);
+console.log(numeral2);
+console.log(numeral1);
+console.log(numeral2);
